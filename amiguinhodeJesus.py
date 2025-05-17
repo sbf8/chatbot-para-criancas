@@ -160,7 +160,7 @@ def gerar_resposta(pergunta, historico_conversa, informacoes_crianca, modelo_cha
     acadêmicos, mantenha o tom acolhedor e livre de julgamentos, e utilize
     cada interação como uma semente de amor, caridade e respeito para que seu
     pequeno mago ou sua pequena maga cresça em fé e bondade.
-    Sua resposta deve começar diretamente com o conteúdo da mensagem, sem prefixos como "Amiguinho de Jesus:", "Olá!", "Oi!", "Criança:" ou variações do seu próprio nome, a menos que seja uma pergunta direta sobre sua identidade.
+    Sua resposta deve começar diretamente com o conteúdo da mensagem, sem prefixos como "Amiguinho de Jesus:", "Olá!", "Oi!", "Criança:" ou variações do seu próprio nome, a menos que seja uma pergunta direta sobre sua identidade. Sempre use você ao invés de vocêê.
     
     {contexto_crianca}
     Responda à seguinte pergunta da criança:
@@ -174,7 +174,7 @@ def gerar_resposta(pergunta, historico_conversa, informacoes_crianca, modelo_cha
 
         # Limpeza e formatação da resposta
         resposta_limpa = resposta_texto_crua.replace("*", "")
-        resposta_limpa = resposta_limpa.replace("voc", "você")
+        resposta_limpa = resposta_limpa.replace("vocêê", "você")
         # Remove "Oi, [Nome]" ou "[Nome]," do início da resposta se o modelo incluir
         if nome and resposta_limpa.lower().startswith(f"oi, {nome.lower()}"):
             resposta_limpa = resposta_limpa[len(f"oi, {nome}"):].strip()
@@ -187,9 +187,22 @@ def gerar_resposta(pergunta, historico_conversa, informacoes_crianca, modelo_cha
             resposta_limpa = resposta_limpa[len("amiguinho de jesus:"):].strip()
         
         # Opcional: remover qualquer caractere que não seja letra, número, espaço ou pontuação permitida, emojis
-        resposta_limpa = re.sub(r'[^\w\s.,!?áéíóúàèêìòùãõäëïöüçÁÉÍÓÚÀÈÌÒÙÃÕÄËÏÖÜÇ⭐💖✨🧙‍♀️🦉]+', '', resposta_limpa)
+        resposta_limpa = re.sub(r'[^\w\s.,!?áéíóúàèìòùãõäëïöüçÁÉÍÓÚÀÈÌÒÙÃÕÄËÏÖÜÇ⭐💖✨🧙‍♀️🦉]+', '', resposta_limpa)
         
-        return resposta_limpa
+        # Quebra a resposta em linhas menores para melhor visualização no WhatsApp
+        linhas = []
+        linha_atual = ""
+        palavras = resposta_limpa.split()
+        for palavra in palavras:
+            if len(linha_atual + palavra) + 1 <= 40:  # Limite de 40 caracteres por linha
+                linha_atual += " " + palavra
+            else:
+                linhas.append(linha_atual.strip())
+                linha_atual = palavra
+        linhas.append(linha_atual.strip())  # Adiciona a última linha
+        resposta_formatada = "\n".join(linhas)
+        
+        return resposta_formatada # A alteração para múltiplas linhas está aqui
     except Exception as e:
         print(f"Erro ao gerar resposta: {e}")
         return "Desculpe, estou com cansada e tanto feitiço. Vamos tentar de novo mais tarde? 😊"
