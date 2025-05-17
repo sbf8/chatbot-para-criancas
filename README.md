@@ -78,7 +78,7 @@ Para trazer o Amiguinho de Jesus para o dia a dia dos seus filhos, siga os passo
 
 5º clique em Conectar. Após conectado, execute o comando shift + enter
 
-6º aguarde instalação ou atualização das bibliotecas
+6º aguarde instalação e/ou atualização das bibliotecas
 
 7º permita o acesso à API na janela flutuante que aparecerá logo após o passo 6º. (Caso você demorar permitir, terá que executar o passo 5º novamente)
 
