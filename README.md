@@ -1,4 +1,7 @@
-✨ Amiguinho de Jesus: Seu Guia Mágico no Evangelho ✨
+![banner_gitgub](https://github.com/user-attachments/assets/de03d6a6-8511-4761-8b72-7e40ab0e022c)
+
+
+#Amiguinho de Jesus: Seu Guia Mágico no Evangelho
 
 
 🌟 Uma Aventura de Fé e Magia para Crianças
@@ -62,7 +65,7 @@ Para trazer o Amiguinho de Jesus para o seu computador, siga os passos abaixo:
 
 6º Aguarde carregar as bibliotecas
 
-7º Permita o acesso à API no poupup que aparecerá na tela. (Caso você demorar permitir, terá que executar o passo 5º novamente)
+7º Permita o acesso à API na janela flutuante que aparecerá logo após o passo 6º. (Caso você demorar permitir, terá que executar o passo 5º novamente)
 
 ***Após seguir todos os passos corretamente será iniciado o chat para interação da criança ou responsável por ela.
 
