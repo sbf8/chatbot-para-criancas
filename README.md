@@ -16,7 +16,7 @@ Em um mundo onde a tecnologia encontra a espiritualidade, o Amiguinho de Jesus a
 
 --- 
 
-###  🎯 Nosso Propósito Mágico
+###  🎯 Propósito Mágico
 
 </br>
 
@@ -26,7 +26,7 @@ Ele resolve o desafio de apresentar temas profundos de forma didática e cativan
 
 ---
 
-###  🚀 Funcionalidades Encantadoras
+###  🚀 Funcionalidades
 
 </br>
 
@@ -44,7 +44,7 @@ Respostas Otimizadas: Assegura que o chatbot responda de forma direta e sem repe
 
 ---
 
-###  🧙‍♀️ Linguagem e Processos Utilizadas
+###  🧙‍♀️ Linguagem e Processos
 
 </br>
 
