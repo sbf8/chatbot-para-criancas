@@ -58,7 +58,7 @@ re: Para manipulação de expressões regulares e limpeza de texto.
 
 ###  ⚙️ Como Dar Vida ao Amiguinho de Jesus
 
-Para trazer o Amiguinho de Jesus para o seu computador, siga os passos abaixo:
+Para trazer o Amiguinho de Jesus para o seu dia a dia, siga os passos abaixo:
 
 1º baixe o arquivo .ipynb no seu computador.
 
