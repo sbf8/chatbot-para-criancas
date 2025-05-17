@@ -70,17 +70,17 @@ Para trazer o Amiguinho de Jesus para o dia a dia dos seus filhos, siga os passo
 
 1º baixe o arquivo .ipynb no seu computador.
 
-2º Abra https://colab.research.google.com/ (Crie sua conta caso não tenha e após faça o login)
+2º abra https://colab.research.google.com/ (Crie sua conta caso não tenha e após faça o login)
 
-3º Crie uma chave de API em https://aistudio.google.com/apikey
+3º crie uma chave de API em https://aistudio.google.com/apikey
 
-4º No Colab vá em Arquivo > Fazer upload de notebook > Upload > selecione o arquivo .ipynb baixado > abrir
+4º no Colab vá em Arquivo > Fazer upload de notebook > Upload > selecione o arquivo .ipynb baixado > abrir
 
-5º Clique em Conectar. Após conectado, execute o comando shift + enter
+5º clique em Conectar. Após conectado, execute o comando shift + enter
 
-6º Aguarde instalação ou atualização das bibliotecas
+6º aguarde instalação ou atualização das bibliotecas
 
-7º Permita o acesso à API na janela flutuante que aparecerá logo após o passo 6º. (Caso você demorar permitir, terá que executar o passo 5º novamente)
+7º permita o acesso à API na janela flutuante que aparecerá logo após o passo 6º. (Caso você demorar permitir, terá que executar o passo 5º novamente)
 
 </br>
 
