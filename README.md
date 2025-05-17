@@ -84,7 +84,7 @@ Para trazer o Amiguinho de Jesus para o dia a dia dos seus filhos, siga os passo
 
 </br>
 
-***Após seguir todos os passos corretamente será iniciado o chat para interação da criança ou responsável por ela.
+*Após seguir todos os passos corretamente será iniciado o chat para interação da criança ou responsável por ela.*
 
 ---
 
