@@ -1,8 +1,8 @@
 ![banner_gitgub](https://github.com/user-attachments/assets/de03d6a6-8511-4761-8b72-7e40ab0e022c)
 
+</br>
 
 #  Amiguinho de Jesus: Seu Guia Mágico no Evangelho
-
 
 </br>
 
