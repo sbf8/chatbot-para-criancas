@@ -1,5 +1,6 @@
 ✨ Amiguinho de Jesus: Seu Guia Mágico no Evangelho ✨
 
+
 🌟 Uma Aventura de Fé e Magia para Crianças
 
 Bem-vindos ao Amiguinho de Jesus, um chatbot educativo e interativo projetado para transformar os ensinamentos de O Evangelho Segundo o Espiritismo e O Livro dos Espíritos em uma jornada lúdica e inspiradora para crianças de 5 a 12 anos.
@@ -63,7 +64,7 @@ Para trazer o Amiguinho de Jesus para o seu computador, siga os passos abaixo:
 
 7º Permita o acesso à API no poupup que aparecerá na tela. (Caso você demorar permitir, terá que executar o passo 5º novamente)
 
-***Após seguir todos os passos corretamente será iniciado o chat para conersação.
+***Após seguir todos os passos corretamente será iniciado o chat para interação da criança ou responsável por ela.
 
 
 🤝 Contribua com a Magia!
