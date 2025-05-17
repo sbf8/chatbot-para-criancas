@@ -44,21 +44,17 @@ Respostas Otimizadas: Assegura que o chatbot responda de forma direta e sem repe
 
 ---
 
-###  🧙‍♀️ Tecnologias Utilizadas
+###  🧙‍♀️ Linguagem e Processos Utilizadas
 
 </br>
 
-Este projeto foi construído com a força da magia moderna:
-
-Python: Linguagem de programação principal, robusta e versátil.
-
-Google Gemini API (google-generativeai): A inteligência por trás das conversas, garantindo respostas criativas e adaptadas.
+Python e Gemini API - A inteligência por trás das conversas, garantindo respostas criativas e adaptadas.
 
 subprocess e sys: Para gerenciamento de processos e interação com o sistema.
 
 time e random: Para controle de fluxo e diversificação das respostas.
 
-os: Para gerenciamento de variáveis de ambiente (API Key).
+os: Para gerenciamento de variáveis de ambiente.
 
 re: Para manipulação de expressões regulares e limpeza de texto.
 
@@ -74,15 +70,15 @@ Para trazer o Amiguinho de Jesus para o dia a dia dos seus filhos, siga os passo
 
 1º baixe o arquivo .ipynb no seu computador.
 
-2º Abra https://colab.research.google.com/
+2º Abra https://colab.research.google.com/ (Crie sua conta caso não tenha e após faça o login)
 
 3º Crie uma chave de API em https://aistudio.google.com/apikey
 
 4º No Colab vá em Arquivo > Fazer upload de notebook > Upload > selecione o arquivo .ipynb baixado > abrir
 
-5º Após carregar execute o comando shift + enter
+5º Clique em Conectar. Após conectado, execute o comando shift + enter
 
-6º Aguarde carregar as bibliotecas
+6º Aguarde instalação ou atualização das bibliotecas
 
 7º Permita o acesso à API na janela flutuante que aparecerá logo após o passo 6º. (Caso você demorar permitir, terá que executar o passo 5º novamente)
 
