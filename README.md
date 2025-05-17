@@ -10,7 +10,7 @@
 
 </br>
 
-  Bem-vindos ao Amiguinho de Jesus, um chatbot educativo e interativo projetado para transformar os ensinamentos de O Evangelho Segundo o Espiritismo e O Livro dos Espíritos em uma jornada lúdica e inspiradora para crianças de 5 a 12 anos.
+Bem-vindos ao Amiguinho de Jesus, um chatbot educativo e interativo projetado para transformar os ensinamentos de O Evangelho Segundo o Espiritismo e O Livro dos Espíritos em uma jornada lúdica e inspiradora para crianças de 5 a 12 anos.
 
 Em um mundo onde a tecnologia encontra a espiritualidade, o Amiguinho de Jesus atua como um companheiro virtual, guiando os pequenos aprendizes por conceitos complexos como caridade, amor ao próximo e fé raciocinada, tudo isso com a leveza e o encanto das histórias de Jesus e referências mágicas que lembram o universo de Harry Potter!
 
@@ -112,4 +112,4 @@ Sinta-se à vontade para usar, modificar e compartilhar.
 
 </br>
 
-Para dúvidas, sugestões ou para compartilhar suas experiências, entre em contato no Instagram @samuelbovef
+Para dúvidas, sugestões ou para compartilhar suas experiências, entre em contato em @samuelbovef
