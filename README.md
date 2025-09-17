@@ -108,4 +108,5 @@ Sinta-se à vontade para usar, modificar e compartilhar.
 
 </br>
 
-Para dúvidas, sugestões ou para compartilhar suas experiências, entre em contato em @samuelbovef
+Para dúvidas, sugestões ou para compartilhar suas experiências, entre em contato em contato@xaeth.com.br
+
